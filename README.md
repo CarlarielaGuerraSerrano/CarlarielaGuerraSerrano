@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Carlariela+Guerra+Serrano;I'm+a+Java+Developer+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Carlariela+Guerra+Serrano;I'm+a+Java+Developer)](https://git.io/typing-svg)
 
 <h1 align="center">
 Hi there, I'm Carlariela Guerra Serrano!
