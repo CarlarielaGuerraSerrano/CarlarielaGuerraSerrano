@@ -21,6 +21,8 @@ Hi there, I'm Carlariela Guerra Serrano!
 </pre>
 <hr>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=CarlarielaGuerraSerrano&theme=radical&show_icons=true" />
@@ -32,7 +34,7 @@ Hi there, I'm Carlariela Guerra Serrano!
 
 ## Language and Tools
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/CarlarielaGuerraSerrano/CarlarielaGuerraSerrano/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Main Stack:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -66,20 +68,22 @@ Hi there, I'm Carlariela Guerra Serrano!
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlariela-guerra-serrano/">
+  <a href="https://www.linkedin.com/in/carlariela-guerra-serrano/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
-  <a href="mailto:carlarielita@gmail.com">
+  <a href="mailto:carlarielita@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
   </a>
-  <a href="https://t.me/Carlariel">     
+  <a href="https://t.me/Carlariela" target="blank">     
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=59178092880&text=Hi,%20How%20are%20you!">
+  <a href="https://api.whatsapp.com/send?phone=59178092880&text=Hi,%20How%20are%20you!" target="blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Youtube Badge"/>
   </a>   
 </p> 
 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CarlarielaGuerraSerrano&label=Profile%20views&color=0e75b6&style=flat" alt="CarlarielaGuerraSerrano" /> </p>
 
 ------
 Credit: [Carlariela](https://github.com/CarlarielaGuerraSerrano)
