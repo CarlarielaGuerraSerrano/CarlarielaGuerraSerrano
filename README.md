@@ -69,14 +69,14 @@ Hi there, I'm Carlariela Guerra Serrano!
 
 #### Tools :
 
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=idea"/>](https://www.jetbrains.com/idea/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postman"/>](https://www.postman.com/)
+  [![My Skills](https://skillicons.dev/icons?i=idea,postman)](https://skillicons.dev)
   <img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" title="eclipse"/>
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-  [![My Skills](https://skillicons.dev/icons?i=docker,aws,jenkins)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,github,git,docker,aws,jenkins)](https://skillicons.dev)
+  
+  
+  
+  
+  
   
 
 <br>
