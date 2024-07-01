@@ -79,7 +79,7 @@ Hi there, I'm Carlariela Guerra Serrano!
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
   <img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/>
-  [(https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
   
 
 <br>
