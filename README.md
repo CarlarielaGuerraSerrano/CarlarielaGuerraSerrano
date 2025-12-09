@@ -10,14 +10,14 @@ Hi there, I'm Carlariela Guerra Serrano!
 <hr>
 
 <pre>
-💻 I am mainly a Backend Developer
-📚 I am studying Computer Science at UAGRM University in Bolivia 
-📝 I have a strong interest in Software Engineering
-🛠️ Currently looking for my first work experience as a Java developer
-🌱 Learning about efficient designs for scalable systems
+💻 I am mainly a Backend Developer.
+📚 I am studying Computer Science at UAGRM University in Bolivia.
+📝 I have a strong interest in Software Engineering.
+🛠️ I am looking to collaborate on outstanding projects developed in Java.
+🌱 Learning about efficient designs for scalable systems.
 🌟 Main language: Java 😁
-🚩 Interested in Java Ecosystem
-😃 I look forward to collaborate on impactful projects
+🚩 Interested in Java Ecosystem.
+😃 I look forward to collaborate on impactful projects.
 </pre>
 <hr>
 
